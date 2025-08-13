@@ -19,7 +19,7 @@ export const HeaderContent = styled.div`
 export const Icon = styled.div`
     align-items: center;
     justify-content: center;
-    gap: 2;
+    gap: 0.6rem;
     display: flex;
     flex-direction:row;
     font-size:25px;

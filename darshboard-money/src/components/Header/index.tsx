@@ -5,7 +5,7 @@ export function Header() {
         <HeaderConteiner>
             <HeaderContent>
                 <Icon>
-                    <CircleAlertIcon color="teal" height={25} width={27}/>
+                    <CircleAlertIcon color="#00b37e" height={25} width={27}/>
                     <strong> DT MONEY</strong>
                 </Icon>
 
