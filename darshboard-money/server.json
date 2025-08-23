@@ -1,20 +1,36 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2025-08-29T19:20:44.5052"
-        },
-        {
-            "id": 2,
-            "description": "Hamburguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 40,
-            "createdAt": "2025-08-29T19:20:44.5052"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2025-08-29T19:20:44.5052"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 40,
+      "createdAt": "2025-08-29T19:20:44.5052"
+    },
+    {
+      "description": "Jogos",
+      "price": 400,
+      "category": "Entretenimento",
+      "type": "outcome",
+      "createdAt": "2025-08-23T18:54:19.570Z",
+      "id": 3
+    },
+    {
+      "description": "MilkShake",
+      "price": 14,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-08-23T19:12:50.248Z",
+      "id": 4
+    }
+  ]
 }
